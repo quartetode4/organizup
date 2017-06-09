@@ -1,2 +1,6 @@
 Gremio 6 x 3 Chapecoense
+<<<<<<< HEAD
 Sao Paulo 6 x 1 Corinthians
+=======
+Sao Paulo 1 x 6 Corinthians
+>>>>>>> 507be5f1003e028c791164883d7eee15455cc207
